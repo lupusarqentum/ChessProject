@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rRM/ql4Nrklmj1p8wQL1hx/ErMdQJM13WXaVEm1o3dnOhTwBVe/k2oA77U54s6LtPjWBse90bfe+RvCZln9N5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Grigorias\\Программирование\\ChessGame\\ChessRules\\ChessRules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+D:\Grigorias\Программирование\ChessGame\ChessRules\bin\Debug\netcoreapp3.1\ChessRules.deps.json
+D:\Grigorias\Программирование\ChessGame\ChessRules\bin\Debug\netcoreapp3.1\ChessRules.dll
+D:\Grigorias\Программирование\ChessGame\ChessRules\bin\Debug\netcoreapp3.1\ChessRules.pdb
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.csproj.AssemblyReference.cache
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.AssemblyInfoInputs.cache
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.AssemblyInfo.cs
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.csproj.CoreCompileInputs.cache
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.dll
+D:\Grigorias\Программирование\ChessGame\ChessRules\obj\Debug\netcoreapp3.1\ChessRules.pdb
